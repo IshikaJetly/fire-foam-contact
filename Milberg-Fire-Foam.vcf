@@ -1,9 +1,18 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Fire Foam Compensation
+
+FN:Milberg Grossman
 ORG:Milberg Grossman
 TITLE:Fire Foam Compensation
-TEL;TYPE=WORK,VOICE:8653505075
-EMAIL:firefoamhelp@milberg.com
-NOTE:Contact the Fire Foam Compensation team regarding potential AFFF exposure claims.
+
+TEL;TYPE=WORK,VOICE:+1 (866) 252-0878
+TEL;TYPE=WORK,VOICE:+1 (833) 893-5862
+TEL;TYPE=WORK,VOICE:+1 (865) 350-5075
+TEL;TYPE=WORK,VOICE:+1 (516) 741-5600
+
+EMAIL;TYPE=WORK:firefoamteam@milberg.com
+EMAIL;TYPE=WORK:firefoamhelp@milberg.com
+
+NOTE:Contact the Fire Foam Compensation Team regarding potential AFFF Fire Foam claims and case assistance.
+
 END:VCARD
